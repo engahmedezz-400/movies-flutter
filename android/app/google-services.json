@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "166952520787",
+    "project_id": "movies-project-amm-group",
+    "storage_bucket": "movies-project-amm-group.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166952520787:android:99150a487ac37405308aa6",
+        "android_client_info": {
+          "package_name": "com.example.movies_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166952520787-makddasf3mdq78atqrlr8gadall501uc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.movies_app",
+            "certificate_hash": "0247852d22205c0c52081c25945a1b774fbac1a8"
+          }
+        },
+        {
+          "client_id": "166952520787-48i53g6h8cl8mde6391doubgrkdt27fr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiNJpEnvvz5hTezPLSDuWQFZOBBEH9KLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166952520787-48i53g6h8cl8mde6391doubgrkdt27fr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
